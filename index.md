@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Website coming soon…
 layout: default
 ---
 
